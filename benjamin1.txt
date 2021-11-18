@@ -1,1 +1,4 @@
 prueba número 1 del archivo
+Esta es la segunda línea que escribe benjamín
+Tercer linea escrita por benjamín
+Cuarta linea de benja
